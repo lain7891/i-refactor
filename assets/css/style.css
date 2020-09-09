@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+ /* Links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Main Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* Images in the main section Positions*/ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* Service include all main sections*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +96,7 @@ p {
     font-size: 36px;
 }
 
+/* Benefit includes all the aside classes*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
