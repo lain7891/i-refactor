@@ -5,10 +5,15 @@ This project was created to help implement the topics covered so far in class. T
 Refactoring a website is about improving the source code so it can be more concise and organized for the next coder to view. As I applied the topics covered in class, I was able to update the source code by:
 
 *adding alternative tags for all images which would enable visual impaired visitors to the website to read the description about the image in place. 
+
 *updated the CSS file by consolidating repeated styles using classes that you found on the HTML file. 
+
 *used sematic elements for each important section of the website. This would allow another coder to have a better understanding which area these codes are targeting on the website. 
+
 *created a title on the HTML file that would allow viewers to see the website name if they have many tabs open.
+
 *rearranged the CSS file so that it was clear and easy to read.
+
 *Ensure that the buttons on the navigation worked and linked to where they needed to go on the website.  
 
 ![screenshotofpage1](assets/images/screenshot1.png)
