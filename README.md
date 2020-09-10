@@ -11,7 +11,7 @@ Refactoring a website is about improving the source code so it can be more conci
 *rearranged the CSS file so that it was clear and easy to read.
 *Ensure that the buttons on the navigation worked and linked to where they needed to go on the website.  
 
-![screenshotofpage1] (./assets/images/screenshot1.png)
+![screenshotofpage1](assets/images/screenshot1.png)
 
 ![screenshotofpage2](.assets/images/screenshot2.png)
 
