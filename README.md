@@ -11,6 +11,10 @@ Refactoring a website is about improving the source code so it can be more conci
 *rearranged the CSS file so that it was clear and easy to read.
 *Ensure that the buttons on the navigation worked and linked to where they needed to go on the website.  
 
+![screenshotofpage](.assets/images/screenshot1.png) 
+
+![screenshotofpage](.assets/images/screenshot2.png)
+
 While we did not change the website in this activity, we did improve the source code. By improving the source code I was able to apply the topics we have covered and understand why certain things are used and when. One of the areas this activity helped me was to understand more where the sematic elements should go, as well as how classes can help consolidate the style on CSS. 
 
 I used the inspect tab on the actual website to try out my changes or additions to the source before actually adding them. Once I felt confident that I would not change the website with my updates then I went ahead and pushed them to GitHub. After several Git Commits, I then deployed the website. With each major update to the site I was able to practice on the process of getting it to GitHub (git add, git commit, git pull, git push). I did struggle the first few times because I did not see my updates on GitHub but after several tries I felt confident in this process. 
